@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "StreetVibez",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Taipei",
+      "description": "SOUL AND LOCK",
+      "organizer": "Locking Tim",
+      "category": "Locking"
+    },
+    {
+      "id": 2,
+      "title": "BuildItUp",
+      "date": "Aug 30 2018",
+      "time": "11:00",
+      "location": "India",
+      "description": "Where the music takes you",
+      "organizer": "River",
+      "category": "Open Style"
+    },
+    {
+      "id": 3,
+      "title": "RandomCircle",
+      "date": "Aug 29 2018",
+      "time": "10:00",
+      "location": "Germany",
+      "description": "It is about music and us",
+      "organizer": "Batalla",
+      "category": "Open Style"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ]
+}
